@@ -365,7 +365,7 @@ footer p{
     }
     .header__texto{
         margin-left: 12%;
-        max-width: 100%;
+        max-width: 628px;
     }
     footer{
         justify-content: space-between;
@@ -447,5 +447,7 @@ footer p{
     .invitados__imagenes img{
         width: 30%;
     }
-
+    .header__boton{
+        margin-left: 0px;
+    }
 }
